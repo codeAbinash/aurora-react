@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Include Fonts */
+@font-face {
+  font-family: 'Source Code Pro';
+  src: url('/fonts/SourceCodePro-VariableFont_wght.ttf') format('truetype');
+}
+
+* {
+  /* font-family: 'Source Code Pro', 'Cascadia Code', 'Consolas', 'Courier New', 'Courier', 'monospace'; */
+}
+.custom-font,
+.custom-font * {
+  font-family: 'Source Code Pro', 'Cascadia Code', 'Consolas', 'Courier New', 'Courier', 'monospace';
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 3px;
+  height: 0px;
+  background-color: #ffffff20;
+  cursor: pointer;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  border-radius: 2px;
+  background-color: #ffffff20;
+}
