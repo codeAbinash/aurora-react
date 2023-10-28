@@ -30,7 +30,7 @@ npm install aurora-code aurora-react
 
 ```tsx
 import { Aurora } from 'aurora-react'; // Aurora code Component
-import 'aurora-code/themes/one dark pro' (css); // Aurora theme
+import 'aurora-code/themes/one dark pro'; // Aurora theme (css)
 ...
 // code is the C code string
 <Aurora code={code} />
