@@ -1,10 +1,16 @@
 # Aurora 🎨 / React
 
-Aurora : The C code highlighting engine for the web.
+![GitHub release (with filter)](https://img.shields.io/github/v/release/codeAbinash/aurora-react?color=limegreen)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/aurora-react)
+![License](https://img.shields.io/github/license/codeAbinash/aurora-react?color=orangered)
+
+![Aurora](https://try-aurora.vercel.app/aurora.png)
+
+The C code highlighting engine for the web.
 
 ### Try Aurora [Online](https://try-aurora.vercel.app/) ❤️‍🔥
 
-![Aurora](https://codeAbinash.github.io/aurora/images/banner.jpg)
+<!-- ![Aurora](https://codeAbinash.github.io/aurora/images/banner.jpg) -->
 
 > Don't worry about rerendering your react app. Aurora will take care of it.
 
