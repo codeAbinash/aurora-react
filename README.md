@@ -10,6 +10,8 @@ The C code highlighting engine for the web.
 
 ### Try Aurora [Online](https://try-aurora.vercel.app/) ❤️‍🔥
 
+You can try Aurora online [here](https://try-aurora.vercel.app/) before using it in your project.
+
 <!-- ![Aurora](https://codeAbinash.github.io/aurora/images/banner.jpg) -->
 
 > Don't worry about rerendering your react app. Aurora will take care of it.
