@@ -1,7 +1,7 @@
 # Aurora 🎨 / React
 
-![GitHub release (with filter)](https://img.shields.io/github/v/release/codeAbinash/aurora-react?color=limegreen)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/aurora-react)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/codeAbinash/aurora-react?color=limegrrren)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/aurora-react?color=aa3aec)
 ![License](https://img.shields.io/github/license/codeAbinash/aurora-react?color=orangered)
 
 ![Aurora](https://try-aurora.vercel.app/aurora.png)
