@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   aurora-code:
-    specifier: ^1.0.1
-    version: 1.0.1
+    specifier: latest
+    version: 2.0.1
 
 devDependencies:
   '@types/node':
@@ -934,8 +934,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /aurora-code@1.0.1:
-    resolution: {integrity: sha512-2sMO9T9RqVZA6OSk5/SVtEtP5yWiK3VdQLAQdN6bISLRc2vOHML0cPmwsLWi370AASevx1uCfIcm1RDe3MbGhg==}
+  /aurora-code@2.0.1:
+    resolution: {integrity: sha512-wGZYCSK9Bsh1uvS2w28X1nFOwxZWBZin2T9KNcrSJpD/4DzIXsc32seA5DWbawEaV76684Sjdtb+3l/9qgVTQQ==}
     dev: false
 
   /autoprefixer@10.4.16(postcss@8.4.31):
