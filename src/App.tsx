@@ -1,4 +1,4 @@
-import 'aurora-code/themes/one dark pro';
+import 'aurora-code/themes/oneDarkPro.css';
 import { createRef, useEffect, useState } from 'react';
 import { Aurora } from '../lib';
 

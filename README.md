@@ -30,7 +30,7 @@ npm install aurora-code aurora-react
 
 ```tsx
 import { Aurora } from 'aurora-react'; // Aurora code Component
-import 'aurora-code/themes/one dark pro'; // Aurora theme (css)
+import 'aurora-code/themes/oneDarkPro.css'; // Aurora theme (css)
 ...
 // code is the C code string
 <Aurora code={code} />
@@ -82,7 +82,7 @@ import { Aurora } from 'aurora-react'; // Aurora code Component
 Here is an example of theme object for configuring the theme.
 
 ```ts
-// One Dark Pro
+// One Dark Pro theme
 one_dark_pro = {
   comment: '#5c6370',
   comment_start: '#5c6370',
