@@ -16,7 +16,7 @@ export function Aurora({
     setH(aurora(code, config));
     const end = performance.now();
     if (setTime) setTime(end - start);
-  }, [code]);
+  }, [code, config, setTime]);
   return (
     <pre>
       <code dangerouslySetInnerHTML={{ __html: h }}></code>
